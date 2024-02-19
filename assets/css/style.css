@@ -39,7 +39,7 @@ body {
 
 /* Carousel Section1 */
 
-/* ¿QUIÉNES SOMOS? section2 */
+/* ¿QUIÉNES SOMOS? article */
 
 .bg-icon {
     background-color: #1bb4f5;
@@ -58,7 +58,7 @@ body {
     justify-content: left;
 }
 
-section div h2 {
+article div h2 {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -67,7 +67,7 @@ section div h2 {
 }
 
 
-/* Cards Section3 */
+/* Cards Section2 */
 .card-img-top {
     height: 140px;
 }
@@ -91,4 +91,32 @@ section div h2 {
     color: #ffffff;
 
 }
+
+section div h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #ffffff;
+    border-bottom: 2px solid #ffffff;
+}
+
+/* Formulario section3 */
+label {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+}
+
+.btn-mod {
+    background-color: #1bb4f5;
+}
+
+.btn-mod span {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+}
+
 /* Footer */
