@@ -39,6 +39,11 @@ body {
 
 /* Carousel Section1 */
 
+.navbar-black-bg {
+    background-color: #000000 !important;
+}
+
+
 /* ¿QUIÉNES SOMOS? article */
 
 .bg-icon {
@@ -133,8 +138,6 @@ label {
     background-color: #1bb4f5;
     font-size: 4.3vh;
     color: #ffffff;
-   
-    
 }
 
 .t-f {
@@ -142,8 +145,6 @@ label {
     font-weight: 400;
     font-style: normal;
     color: #ffffff;
-
-
 }
 
  footer {
@@ -155,3 +156,6 @@ label {
         margin-left: 200px;
     }
 }
+
+
+
